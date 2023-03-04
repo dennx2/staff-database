@@ -1,0 +1,6 @@
+# IntelliJ-specific files and directories
+.idea/
+*.iml
+out/
+*.log
+src/assignment4_package/OracleInfo.java
